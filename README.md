@@ -1,3 +1,2 @@
 # gjamesgleng.github.io
-
-This is a test site!
+This has no content.
